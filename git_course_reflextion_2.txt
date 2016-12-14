@@ -1,6 +1,13 @@
-FC finns p� windows - samma som diff p� unix.
+﻿FC finns p� windows - samma som diff p� unix.
 
 p� unix anv�nd -u f�r b�ttre diff.
 
 
 this line was added using Atom editor.
+
+****
+git diff -> working vs staged.
+
+git diff --staged -> staged vs commited.
+
+****
