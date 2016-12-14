@@ -1,0 +1,6 @@
+FC finns p� windows - samma som diff p� unix.
+
+p� unix anv�nd -u f�r b�ttre diff.
+
+
+this line was added using Atom editor.
